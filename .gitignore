@@ -1,0 +1,10 @@
+.idea/
+.pytest_cache/
+_pycache_/
+allure/
+allure-2.14.0/
+asserts/
+logs/
+page object model framework/
+venv/
+config/
